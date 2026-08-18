@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
     <version>1.0.0.52</version>
-    <url>https://raw.githubusercontent.com/reayidhaa/my-RASNetManager-update/main/RASNetManager.exe</url>
-    <changelog>https://github.com/reayidhaa/my-RASNetManager-update</changelog>
+    <url>https://raw.githubusercontent.com/reayidhaa/RASNetManager/main/RASNetManager.exe</url>
+    <changelog>https://github.com/reayidhaa/RASNetManager</changelog>
     <mandatory>false</mandatory>
 </item>
