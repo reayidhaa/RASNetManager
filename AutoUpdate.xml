@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
-    <version>1.0.0.60</version>
+    <version>1.0.0.62</version>
     <url>https://raw.githubusercontent.com/reayidhaa/RASNetManager/main/RASNetManager.exe</url>
     <changelog>https://github.com/reayidhaa/RASNetManager</changelog>
     <mandatory>false</mandatory>
