@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
-    <version>1.0.0.72</version>
-    <!-- إذا كان ملف exe مرفوعاً على GitHub اترك الرابط كما هو، أما إذا كان على Google Drive فاستخدم رابط التنزيل المباشر -->
-    <url>https://drive.google.com/uc?export=download&id=1GscxmpoxhUSfzj7hEnHjPxtYz35DWA5D</url>
+    <version>1.0.0.70</version>
+    <url>https://raw.githubusercontent.com/reayidhaa/RASNetManager/main/RASNetManager.exe</url>
     <changelog>https://github.com/reayidhaa/RASNetManager</changelog>
-    <mandatory>true</mandatory>
+    <mandatory>false</mandatory>
 </item>
