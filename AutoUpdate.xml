@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
-    <version>1.0.0.72</version>
-    <url>https://raw.githubusercontent.com/reayidhaa/RASNetManager/main/RASNetManager.exe</url>
+    <version>1.0.0.74</version>
+    <!-- رابط التنزيل المباشر لملف التحديث من Google Drive -->
+    <url>https://drive.google.com/uc?export=download&amp;id=1hTty6jgS1o02G9DHNizhhYJVGMO5cHzg</url>
     <changelog>https://github.com/reayidhaa/RASNetManager</changelog>
-    <mandatory>false</mandatory>
+    <mandatory>true</mandatory>
 </item>
