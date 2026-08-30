@@ -2,7 +2,7 @@
 <item>
     <version>1.0.0.75</version>
     <!-- رابط التنزيل المباشر الصافي فقط -->
-    <url>https://drive.google.com/uc?export=download&id=1hTty6jgS1o02G9DHNizhhYJVGMO5cHzg</url>
+    <url>https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1hTty6jgS1o02G9DHNizhhYJVGMO5cHzg</url>
     <changelog>https://github.com/reayidhaa/RASNetManager</changelog>
     <mandatory>true</mandatory>
 </item>
