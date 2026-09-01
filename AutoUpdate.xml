@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
-    <version>1.0.0.76</version>
-    <!-- رابط التنزيل المباشر لملف الـ ZIP من Google Drive -->
-    <url>https://drive.google.com/uc?export=download&amp;id=1vqV_I1NmeFGUZrMOfH1rfFpO12Pg0WIz</url>
+    <version>1.0.0.77</version>
+    <url>https://raw.githubusercontent.com/reayidhaa/RASNetManager/main/RASNetManager.exe</url>
     <changelog>https://github.com/reayidhaa/RASNetManager</changelog>
-    <mandatory>true</mandatory>
+    <mandatory>false</mandatory>
 </item>
